@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Y965BW5RVU.com.starry.StarryTech.Comet.Int",
+                "paths": [ "/provision_comet/*"]
+            }
+         ]
+    }
+}
